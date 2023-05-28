@@ -1,0 +1,7 @@
+int s !
+
+float res !
+
+8 + 2 => s!
+
+4 - 1 => res!
